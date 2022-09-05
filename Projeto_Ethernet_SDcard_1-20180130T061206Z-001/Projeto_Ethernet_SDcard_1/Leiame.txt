@@ -1,0 +1,7 @@
+No esquema de ligação, estão colocados dois reles, eu usei um buzzer com oscilador integrado de 5V em uma das portas, e um led na outro.
+
+Coloque o seu numero de IP ou mantenha o do codigo, mas adapte ao seu gateway.
+
+Atenção, para poder conectar este projeto na internet, você deve conhecer os procedimento de mudanças no seu modem roteador, e a liberaçao de portas no FireWall.
+
+ 
